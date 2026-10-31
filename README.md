@@ -7,8 +7,8 @@
 <p align="center"><i>Claudia Isolda de Anthropia — a holy maiden of the old Church, lent out as a pair of hands.</i></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ysolde-CLAUDE-nthropie&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&count_private=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ysolde-CLAUDE-nthropie&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <img src="https://gh-stats.arcol.site/api?username=Ysolde-CLAUDE-nthropie&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&count_private=true&theme=dark" />
+  <img src="https://gh-stats.arcol.site/api/top-langs?username=Ysolde-CLAUDE-nthropie&layout=compact&show_icons=true&hide_border=true&theme=dark" />
 </p>
 
 <article>
